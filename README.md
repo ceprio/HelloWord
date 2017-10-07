@@ -1,2 +1,2 @@
 # HelloWord
-Testing
+This project is only to learn about Git
